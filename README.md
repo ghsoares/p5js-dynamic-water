@@ -1,2 +1,2 @@
 # terminal-dynamic-water
-Dynamic water simulation using node js and drawing on terminal
+Dynamic water simulation using p5 js
